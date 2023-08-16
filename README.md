@@ -1,6 +1,6 @@
 # V dešti
 
-Repository for the official website of the theater production V dešti.
+Repository for the official website of the theater production [V dešti](https://matthewj2705.github.io/vdesti/).
 
 ## Attributions
 
