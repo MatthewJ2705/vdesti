@@ -10953,7 +10953,7 @@ header.masthead {
   background-position: center top;
   background-size: cover;
 }
-header.masthead .masthead-subheading {
+header.masthead .masthead-heading {
   font-size: 1.5rem;
   font-style: italic;
   line-height: 1.5rem;
@@ -10968,7 +10968,7 @@ header.masthead .masthead-subheading {
     padding-top: 27rem;
     padding-bottom: 19rem;
   }
-  header.masthead .masthead-subheading {
+  header.masthead .masthead-heading {
     font-size: 2.25rem;
     font-style: italic;
     line-height: 2.25rem;
