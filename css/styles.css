@@ -10978,6 +10978,11 @@ header.masthead .masthead-heading {
     letter-spacing: 0.0625em;
   }
 }
+.play-summary img {
+  width: 14rem;
+  height: 14rem;
+  border: 0.2rem solid #ffc800;
+}
 #fotogalerie .portfolio-item {
   max-width: 26rem;
   margin-left: auto;
